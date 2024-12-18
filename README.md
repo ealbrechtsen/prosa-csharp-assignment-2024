@@ -16,7 +16,7 @@ The course covered essential C# concepts using .NET 8 and Visual Studio Code, fo
 - **Language**: C#  
 
 For more details on the course, visit the official materials:  
-[https://mcronberg.github.io/bogenomcsharp/diverse/prosacs2024/opgave.html]
+[https://mcronberg.github.io/bogenomcsharp/diverse/prosacs2024/index.html]
 
 ## Author  
 **Emil Malik Albrechtsen**  

@@ -1,4 +1,4 @@
-# Dice War - Final Assignment  
+# Dice War - Assignment  
 
 This repository contains the approved solution for the **"Dice War"** final assignment submitted as part of the **"Basic C#"** course offered by PROSA in Fall 2024. The project demonstrates key foundational C# programming skills and was developed as part of a six-module course delivered by Michell Cronberg.  
 
